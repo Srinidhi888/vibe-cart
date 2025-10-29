@@ -53,3 +53,11 @@ This allows the cart data to remain even after restarting the backend.
 
 ## Note: 
 I used AI tools (ChatGPT) to assist with debugging, architecture suggestions, and documentation. All code was reviewed, tested, and understood by me.
+
+## 🖼️ Screenshots
+
+### 🛍️ Products Page
+![Products Page](./screenshots/screenshot1.png)
+
+### 🛒 Cart View
+![Cart View](./screenshots/screenshot2.png)
