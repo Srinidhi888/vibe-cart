@@ -41,5 +41,15 @@ cd frontend
 npm install
 npm start
 
+## MongoDB Setup (Optional Bonus)
+If you have MongoDB installed locally or on Atlas:
+
+The backend automatically connects to your local instance (mongodb://127.0.0.1:27017/vibe_commerce)
+
+A single “mock user” (user1) is used for cart persistence
+
+This allows the cart data to remain even after restarting the backend.
 
 
+## Note: 
+I used AI tools (ChatGPT) to assist with debugging, architecture suggestions, and documentation. All code was reviewed, tested, and understood by me.
